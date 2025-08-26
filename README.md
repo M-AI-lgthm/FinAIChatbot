@@ -1,5 +1,4 @@
 # FinAIChatbot
-# FinAIChatbot
 # Building an AI-Powered Financial Assistant with Streamlit
 ## "Fin-Tech Solutions: A Streamlit-Powered Financial Assistant"
 
