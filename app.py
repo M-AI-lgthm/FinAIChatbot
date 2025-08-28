@@ -27,7 +27,7 @@ products = {
 
 # --- Website Styling and Layout ---
 st.set_page_config(
-    page_title="Financial Software",
+    page_title="Demo Financial Software",
     page_icon=":chart_with_upwards_trend:",
     layout="wide",
 )
@@ -53,8 +53,8 @@ if "current_page" not in st.session_state:
     st.session_state.current_page = "Home"
 
 if st.session_state.current_page == "Home":
-    st.title("Financial Software Products & Solutions")
-    st.markdown("### Secure your financial future with our innovative software.")
+    st.title("Demo Financial Software Products & Solutions")
+    st.markdown("### Secure your financial future with our demo innovative software.")
     st.image("https://images.unsplash.com/photo-1542831371-29b0f74f9713?q=80&w=2940&auto=format&fit=crop", width=800)
     st.write("---")
     st.header("Our Services")
@@ -136,7 +136,7 @@ st.markdown("""
 
 # --- Chatbot UI using Streamlit Sidebar ---
 with st.sidebar:
-    st.header("Fin-AI Assistant")
+    st.header("Fin-AI Sales Assistant")
 
     # Use st.expander to create a collapsible chat window
     with st.expander("Click to chat", expanded=True):
