@@ -8,6 +8,8 @@ Presented by: Mary
 
 <img width="1900" height="908" alt="image" src="https://github.com/user-attachments/assets/e798809c-5e08-45b5-906f-f73a443d661a" />
 
+## UI Designed from Figma Prototype
+<img width="1053" height="919" alt="image" src="https://github.com/user-attachments/assets/926f2c89-fce1-4a56-ac93-8e306e025ca8" />
 
 ### The Challenge
 Problem: How do we create a dynamic, modern, and interactive platform to showcase our financial software products and provide immediate client support?
