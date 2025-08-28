@@ -1,10 +1,13 @@
-# FinAIChatbot
-# Building an AI-Powered Financial Assistant with Streamlit
-## "Fin-Tech Solutions: A Streamlit-Powered Financial Assistant"
+# FinAISalesChatbot
+# Building an AI-Powered Financial Sales Assistant with Streamlit
+## "Demo Fin-Tech Solutions: A Streamlit-Powered Financial Sales Assistant"
 
 ### Revolutionizing Client Interaction with a Smart Chatbot
 
 Presented by: Mary
+
+<img width="1900" height="908" alt="image" src="https://github.com/user-attachments/assets/e798809c-5e08-45b5-906f-f73a443d661a" />
+
 
 ### The Challenge
 Problem: How do we create a dynamic, modern, and interactive platform to showcase our financial software products and provide immediate client support?
@@ -36,4 +39,4 @@ Contextual Understanding: It uses Retrieval-Augmented Generation (RAG) to provid
 
 Personalized Responses: It uses the retrieved information to craft a helpful, context-aware answer.
 
-Professional Persona: The chatbot's initial system prompt ensures it behaves like a professional and helpful financial assistant.
+Professional Persona: The chatbot's initial system prompt ensures it behaves like a professional and helpful financial sales assistant.
