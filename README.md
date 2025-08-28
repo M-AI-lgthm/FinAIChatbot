@@ -11,9 +11,9 @@ Presented by: Mary
 ## UI Designed from Figma Prototype
 <img width="1053" height="919" alt="image" src="https://github.com/user-attachments/assets/926f2c89-fce1-4a56-ac93-8e306e025ca8" />
 
-# 💰 FinAI Chatbot - Catalog-based RAG System
+# 💰 FinAI Sales Chatbot - Catalog-based RAG System
 
-AI-powered sales assistance chatbot implementing Catalog-based RAG architecture for financial software companies. Built for websites lacking integrated AI assistants, providing contextually-aware product recommendations through semantic retrieval from pre-indexed product catalogs.
+AI-powered sales assistance chatbot implementing Catalog-based RAG architecture for demo financial software companies. Built for websites lacking integrated AI assistants, providing contextually-aware product recommendations through semantic retrieval from pre-indexed product catalogs.
 
 ## 🌟 Features
 
@@ -106,23 +106,23 @@ finai-chatbot/
 
 ### RAG Implementation
 
-1. **Product Catalog Setup**: Pre-defined financial products with descriptions and features
-2. **Keyword Extraction**: Analyzes user input for product-related terms
-3. **Semantic Retrieval**: Matches keywords with product catalog entries
-4. **Context Augmentation**: Enhances LLM prompt with relevant product information
+1. **Product Catalog Setup**: Pre-defined demo financial products with descriptions and features
+2. **Keyword Extraction**: Analyzes user input for demo product-related terms
+3. **Semantic Retrieval**: Matches keywords with demo product catalog entries
+4. **Context Augmentation**: Enhances LLM prompt with relevant demo product information
 5. **Response Generation**: Google Gemini generates contextually-aware responses
 
-### Example Product Catalog
+### Example Demo Product Catalog
 
 ```python
 products = {
-    "budget-pro": {
-        "name": "Budget Pro",
+    "demo-budget-pro": {
+        "name": "Demo Budget Pro",
         "description": "Advanced personal and small business finance management",
         "features": ["Expense tracking", "Income categorization", "Monthly reports"]
     },
-    "invest-wise": {
-        "name": "InvestWise", 
+    "demo-invest-wise": {
+        "name": "Demo InvestWise", 
         "description": "AI-powered stock market analysis and portfolio management",
         "features": ["Real-time data", "Risk assessment", "Diversification advice"]
     }
